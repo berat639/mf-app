@@ -1,9 +1,9 @@
-# WebCompApp
+# App
 
-The app demonstrates of microfrontend implementation using Angular with NgRx shared state between micro apps.
+microfrontend implementation using Angular with NgRx shared state between micro apps.
 
 ## Installling dependencies
-
+`npm install -g nx`
 `npm i`
 
 ## Run Shell app
@@ -14,6 +14,4 @@ The app demonstrates of microfrontend implementation using Angular with NgRx sha
 
 `nx run gallery:serve`
 
-## Enjoy!
-
-If you learned anything new, follow me on [medium](https://medium.com/@easy-web) and [twitter](https://twitter.com/EasyWebOrg)
+## Enjoy! 
